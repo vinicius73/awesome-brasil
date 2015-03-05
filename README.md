@@ -10,6 +10,10 @@ PHP
 https://github.com/marcioAlmada/annotations  
 The KISS PHP annotations library.
 
+### RedSQL
+https://github.com/marcioAlmada/redsql  
+RedSQL is a database agnostic helper for RedBean delivered as a plugin. It's a tiny, fun and predictable DSL to create SQL queries in a programmatic way.
+
 ## Laravel
 
 ### Defender
