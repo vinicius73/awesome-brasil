@@ -17,6 +17,10 @@ SEOTools é um pacote para Laravel 5 que fornece uma série de helpers para impl
 https://github.com/SOSTheBlack/moip  
 Package para integrar sua aplicação com o intermediador de pagamentos MoIP
 
+### Slack API
+https://github.com/vluzrmos/laravel-slack-api   
+Laravel Facade para acesso à API do Slack.com
+
 ## Wordpress
 
 ### w.eloquent 
