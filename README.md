@@ -13,6 +13,10 @@ Defender é um package ACL para Laravel 5 que utiliza grupos e permissões. Com 
 https://github.com/artesaos/seotools  
 SEOTools é um pacote para Laravel5 que fornece uma série de helper para implementar técnicas comuns de SEO.
 
+### Slack API
+https://github.com/vluzrmos/laravel-slack-api   
+Laravel Facade para acesso à API do Slack.com
+
 ## Wordpress
 
 ### w.eloquent 
