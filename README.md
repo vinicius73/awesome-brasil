@@ -1,5 +1,5 @@
 # awesome-brasil
-Uma lista de projetos Opensouce Brasileiros!
+Uma lista de projetos Open Source Brasileiros!
 
 PHP
 ---
