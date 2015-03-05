@@ -3,6 +3,13 @@ Uma lista de projetos Open Source Brasileiros!
 
 PHP
 ---
+
+## Packages
+
+### Minime \ Annotations
+https://github.com/marcioAlmada/annotations  
+The KISS PHP annotations library.
+
 ## Laravel
 
 ### Defender
