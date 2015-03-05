@@ -31,13 +31,14 @@ Conjunto de ferramentas que ajudam a criar sites WordPress mais facilmente.
 
 Javascript
 ----------
-## Jquery
 
-### Bibliotecas
+## Bibliotecas
 
-#### SENNA
+### SENNA
 http://sennajs.com/  
 A BLAZING-FAST SINGLE PAGE APPLICATION ENGINE
+
+## Jquery
 
 ### Plugins
 
