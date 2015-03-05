@@ -1,5 +1,5 @@
 # awesome-brasil
-Uma lista de projetos Opensouce Brasileiros!
+Uma lista de projetos Open Source Brasileiros!
 
 PHP
 ---
@@ -14,7 +14,7 @@ https://github.com/artesaos/seotools
 SEOTools é um pacote para Laravel5 que fornece uma série de helper para implementar técnicas comuns de SEO.
 
 ### Moip
-https://github.com/SOSTheBlack/moip
+https://github.com/SOSTheBlack/moip  
 Package para integrar sua aplicação com o intermediador de pagamentos MoIP
 
 ## Wordpress
