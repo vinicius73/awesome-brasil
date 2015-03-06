@@ -25,6 +25,10 @@ Biblioteca para geração de boletos bancários em PHP
 https://github.com/artesaos/defender  
 Defender é um package ACL para Laravel 5 que utiliza grupos e permissões. Com Segurança e Usabilidade em mente, este projeto tem como objetivo prover o controle de acesso da sua aplicação.
 
+### ZIPCODE
+https://github.com/artesaos/zipcode  
+ARTESÃOS ZIPCODE (CEP BRASIL)
+
 ### SEOTools
 https://github.com/artesaos/seotools  
 SEOTools é um pacote para Laravel 5 que fornece uma série de helpers para implementar técnicas comuns de SEO.
