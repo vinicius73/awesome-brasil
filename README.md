@@ -32,6 +32,12 @@ Package para integrar sua aplicação com o intermediador de pagamentos MoIP
 https://github.com/vluzrmos/laravel-slack-api   
 Laravel Facade para acesso à API do Slack.com
 
+## CodeIgniter
+
+### ACME Framework
+http://www.acmeframework.org
+ACME Framework é uma pré-aplicação CodeIgniter que após instalada em seu servidor web se torna uma nova aplicação com um conjunto pronto de funcionalidades.
+
 ## Wordpress
 
 ### w.eloquent 
