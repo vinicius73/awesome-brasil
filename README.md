@@ -81,3 +81,9 @@ A BLAZING-FAST SINGLE PAGE APPLICATION ENGINE
 ### Plugins
 
 ## NodeJS
+
+# CSS
+
+## All Animation.css 
+https://github.com/clovisdasilvaneto/all-animation  
+All Animation.css é um conjunto de animações, divertidas para deixar seu projeto mais sexy. São animações cross-browser que darão mas ênfase a suas páginas como controles deslizantes, efeitos 3D’s..
