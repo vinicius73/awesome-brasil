@@ -32,6 +32,10 @@ Package para integrar sua aplicação com o intermediador de pagamentos MoIP
 https://github.com/vluzrmos/laravel-slack-api   
 Laravel Facade para acesso à API do Slack.com
 
+### Validation (Laravel Package)
+https://github.com/KennedyTedesco/Validation  
+"The power of 'Respect Validation' on Laravel"
+
 ## CodeIgniter
 
 ### ACME Framework
