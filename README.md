@@ -94,6 +94,9 @@ Browser history manager for rich media websites
 http://moutjs.com/  
 Modular JavaScript Utilities 
 
+### Medium Editor
+https://github.com/daviferreira/medium-editor  
+Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 
 ## Jquery
 
