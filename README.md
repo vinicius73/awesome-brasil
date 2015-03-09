@@ -86,6 +86,15 @@ Javascript
 http://sennajs.com/  
 A BLAZING-FAST SINGLE PAGE APPLICATION ENGINE
 
+### Hasher
+https://github.com/millermedeiros/hasher/  
+Browser history manager for rich media websites
+
+### MOUT
+http://moutjs.com/  
+Modular JavaScript Utilities 
+
+
 ## Jquery
 
 ### Plugins
