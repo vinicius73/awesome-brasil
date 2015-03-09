@@ -68,6 +68,10 @@ Tema base desenvolvido pelo [Grupo WordPress Brasil](https://www.facebook.com/gr
 https://github.com/potterywp/potter  
 Conjunto de ferramentas que ajudam a criar sites WordPress mais facilmente.
 
+### Alter
+https://github.com/alterfw/alter  
+A small framework that provides the way to develop model-based Wordpress themes
+
 -------------------------------------------------------
 
 Javascript
