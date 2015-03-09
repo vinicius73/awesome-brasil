@@ -102,6 +102,10 @@ Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich te
 
 ### Plugins
 
+#### jQuery StickyColumn plugin
+https://github.com/daviferreira/jquery-sticky-column  
+jQuery plugin that allow you add sticky sidebars to your content.
+
 ## NodeJS
 
 # CSS
