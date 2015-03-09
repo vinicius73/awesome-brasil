@@ -45,6 +45,9 @@ Laravel Facade para acesso à API do Slack.com
 https://github.com/KennedyTedesco/Validation  
 "The power of 'Respect Validation' on Laravel"
 
+### L5 Repository
+https://github.com/andersao/l5-repository  
+Laravel Repositorio para abstrair a camada de banco de dados
 ## CodeIgniter
 
 ### ACME Framework
