@@ -18,6 +18,14 @@ RedSQL is a database agnostic helper for RedBean delivered as a plugin. It's a t
 http://kriansa.github.io/openboleto/  
 Biblioteca para geração de boletos bancários em PHP
 
+### Rede E-commerce SDK
+http://github.com/danielcosta/redecard-ecommerce/  
+SDK PHP para o gateway de pagamento e-commerce da Rede (ex RedeCard)
+
+### B2W (Submarino) SDK
+http://github.com/gpupo/submarino-sdk/  
+SDK PHP para integração com as APIs do B2W Marketplace
+
 ## Respect
 http://respect.li/  
 Componentes simples e independentes para construção e melhoria de aplicações PHP
