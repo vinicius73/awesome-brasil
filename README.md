@@ -44,6 +44,10 @@ ARTESÃOS ZIPCODE (CEP BRASIL)
 https://github.com/artesaos/seotools  
 SEOTools é um pacote para Laravel 5 que fornece uma série de helpers para implementar técnicas comuns de SEO.
 
+### Attacher
+https://github.com/artesaos/attacher  
+Annex and do what you want with your pictures!
+
 ### Moip
 https://github.com/SOSTheBlack/moip  
 Package para integrar sua aplicação com o intermediador de pagamentos MoIP
