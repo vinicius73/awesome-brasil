@@ -14,6 +14,10 @@ The KISS PHP annotations library.
 https://github.com/marcioAlmada/redsql  
 RedSQL is a database agnostic helper for RedBean delivered as a plugin. It's a tiny, fun and predictable DSL to create SQL queries in a programmatic way.
 
+### NFePHP Serialize
+https://github.com/jansenfelipe/nfephp-serialize  
+Transforme NFe(xml) em objetos PHP (e vice-versa)
+
 ### OpenBoleto
 http://kriansa.github.io/openboleto/  
 Biblioteca para geração de boletos bancários em PHP
