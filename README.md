@@ -34,6 +34,10 @@ SDK PHP para integração com as APIs do B2W Marketplace
 http://respect.li/  
 Componentes simples e independentes para construção e melhoria de aplicações PHP
 
+## Google2FA
+https://github.com/antonioribeiro/google2fa  
+Google Two-Factor Authentication for PHP Package
+
 ## Laravel
 
 ### Defender
