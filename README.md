@@ -6,13 +6,17 @@ PHP
 
 ## Packages
 
+### B2W (Submarino) SDK
+http://github.com/gpupo/submarino-sdk/  
+SDK PHP para integração com as APIs do B2W Marketplace
+
+### Google2FA
+https://github.com/antonioribeiro/google2fa  
+Google Two-Factor Authentication for PHP Package
+
 ### Minime \ Annotations
 https://github.com/marcioAlmada/annotations  
 The KISS PHP annotations library.
-
-### RedSQL
-https://github.com/marcioAlmada/redsql  
-RedSQL is a database agnostic helper for RedBean delivered as a plugin. It's a tiny, fun and predictable DSL to create SQL queries in a programmatic way.
 
 ### NFePHP Serialize
 https://github.com/jansenfelipe/nfephp-serialize  
@@ -26,39 +30,43 @@ Biblioteca para geração de boletos bancários em PHP
 http://github.com/danielcosta/redecard-ecommerce/  
 SDK PHP para o gateway de pagamento e-commerce da Rede (ex RedeCard)
 
-### B2W (Submarino) SDK
-http://github.com/gpupo/submarino-sdk/  
-SDK PHP para integração com as APIs do B2W Marketplace
+### RedSQL
+https://github.com/marcioAlmada/redsql  
+RedSQL is a database agnostic helper for RedBean delivered as a plugin. It's a tiny, fun and predictable DSL to create SQL queries in a programmatic way.
 
-## Respect
+### Respect
 http://respect.li/  
 Componentes simples e independentes para construção e melhoria de aplicações PHP
 
-## Google2FA
-https://github.com/antonioribeiro/google2fa  
-Google Two-Factor Authentication for PHP Package
-
 ## Laravel
-
-### Defender
-https://github.com/artesaos/defender  
-Defender é um package ACL para Laravel 5 que utiliza grupos e permissões. Com Segurança e Usabilidade em mente, este projeto tem como objetivo prover o controle de acesso da sua aplicação.
-
-### ZIPCODE
-https://github.com/artesaos/zipcode  
-ARTESÃOS ZIPCODE (CEP BRASIL)
-
-### SEOTools
-https://github.com/artesaos/seotools  
-SEOTools é um pacote para Laravel 5 que fornece uma série de helpers para implementar técnicas comuns de SEO.
 
 ### Attacher
 https://github.com/artesaos/attacher  
 Annex and do what you want with your pictures!
 
+### Defender
+https://github.com/artesaos/defender  
+Defender é um package ACL para Laravel 5 que utiliza grupos e permissões. Com Segurança e Usabilidade em mente, este projeto tem como objetivo prover o controle de acesso da sua aplicação.
+
+### Laravel - Almoxarifado - Módulo Produtos/Material
+https://github.com/resultsystems/storehouse-product  
+Um cadastro de produtos voltado para almoxarifado, pacote independente, um bom exemplo para poder ser usado em novos pacotes tal como fornecedores, clientes etc
+
+### Laravel Security Router
+https://github.com/resultsystems/laravel-security-router  
+Voltado para desenvolvedor que disponibiliza pacotes e gostaria de deixar os outros desenvolvedores definirem as permissões de acesso apenas por um arquivo de configuração, trabalha com middleware, e tem mais proveito se usar o Defender.
+
+### L5 Repository
+https://github.com/andersao/l5-repository  
+Laravel Repositorio para abstrair a camada de banco de dados
+
 ### Moip
 https://github.com/SOSTheBlack/moip  
 Package para integrar sua aplicação com o intermediador de pagamentos MoIP
+
+### SEOTools
+https://github.com/artesaos/seotools  
+SEOTools é um pacote para Laravel 5 que fornece uma série de helpers para implementar técnicas comuns de SEO.
 
 ### Slack API
 https://github.com/vluzrmos/laravel-slack-api   
@@ -68,20 +76,24 @@ Laravel Facade para acesso à API do Slack.com
 https://github.com/KennedyTedesco/Validation  
 "The power of 'Respect Validation' on Laravel"
 
-### L5 Repository
-https://github.com/andersao/l5-repository  
-Laravel Repositorio para abstrair a camada de banco de dados
+### ZIPCODE
+https://github.com/artesaos/zipcode  
+ARTESÃOS ZIPCODE (CEP BRASIL)
+
+
+
 ## CodeIgniter
 
 ### ACME Framework
 http://www.acmeframework.org  
 ACME Framework é uma pré-aplicação CodeIgniter que após instalada em seu servidor web se torna uma nova aplicação com um conjunto pronto de funcionalidades.
 
+
 ## Wordpress
 
-### w.eloquent 
-https://github.com/bruno-barros/w.eloquent  
-Wordpress integrated with Laravel via Composer.
+### Alter
+https://github.com/alterfw/alter  
+A small framework that provides the way to develop model-based Wordpress themes
 
 ### Odin Framework
 https://github.com/wpbrasil/odin  
@@ -91,9 +103,9 @@ Tema base desenvolvido pelo [Grupo WordPress Brasil](https://www.facebook.com/gr
 https://github.com/potterywp/potter  
 Conjunto de ferramentas que ajudam a criar sites WordPress mais facilmente.
 
-### Alter
-https://github.com/alterfw/alter  
-A small framework that provides the way to develop model-based Wordpress themes
+### w.eloquent 
+https://github.com/bruno-barros/w.eloquent  
+Wordpress integrated with Laravel via Composer.
 
 -------------------------------------------------------
 
@@ -102,21 +114,21 @@ Javascript
 
 ## Bibliotecas
 
-### SENNA
-http://sennajs.com/  
-A BLAZING-FAST SINGLE PAGE APPLICATION ENGINE
-
 ### Hasher
 https://github.com/millermedeiros/hasher/  
 Browser history manager for rich media websites
+
+### Medium Editor
+https://github.com/daviferreira/medium-editor  
+Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 
 ### MOUT
 http://moutjs.com/  
 Modular JavaScript Utilities 
 
-### Medium Editor
-https://github.com/daviferreira/medium-editor  
-Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+### SENNA
+http://sennajs.com/  
+A BLAZING-FAST SINGLE PAGE APPLICATION ENGINE
 
 ## Jquery
 
