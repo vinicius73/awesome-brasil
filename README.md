@@ -44,6 +44,10 @@ Componentes simples e independentes para construção e melhoria de aplicações
 https://github.com/artesaos/attacher  
 Annex and do what you want with your pictures!
 
+### Borgert CMS
+https://github.com/odirleiborgert/borgert-cms
+Borgert is a CMS Open Source created with Laravel Framework
+
 ### Defender
 https://github.com/artesaos/defender  
 Defender é um package ACL para Laravel 5 que utiliza grupos e permissões. Com Segurança e Usabilidade em mente, este projeto tem como objetivo prover o controle de acesso da sua aplicação.
