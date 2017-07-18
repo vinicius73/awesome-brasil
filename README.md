@@ -157,3 +157,9 @@ http://locaweb.github.io/locawebstyle-v2/
 Construa sistemas rapidamente utilizando nosso framework. Disponibilizamos comportamentos e uma interface usada por milhares de usuários.
 
 ---
+Shell Script
+---
+
+## ShellBot
+https://github.com/shellscriptx/ShellBot  
+API em Shell Script para desenvolvimento de Bots na plataforma Telegram.
