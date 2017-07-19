@@ -107,14 +107,14 @@ Tema base desenvolvido pelo [Grupo WordPress Brasil](https://www.facebook.com/gr
 https://github.com/potterywp/potter  
 Conjunto de ferramentas que ajudam a criar sites WordPress mais facilmente.
 
-### w.eloquent 
+### w.eloquent
 https://github.com/bruno-barros/w.eloquent  
 Wordpress integrated with Laravel via Composer.
 
--------------------------------------------------------
+---
 
 Javascript
-----------
+---
 
 ## Bibliotecas
 
@@ -128,7 +128,7 @@ Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich te
 
 ### MOUT
 http://moutjs.com/  
-Modular JavaScript Utilities 
+Modular JavaScript Utilities
 
 ### SENNA
 http://sennajs.com/  
@@ -144,12 +144,22 @@ jQuery plugin that allow you add sticky sidebars to your content.
 
 ## NodeJS
 
-# CSS
+---
+CSS
+---
 
-## All Animation.css 
+## All Animation.css
 https://github.com/clovisdasilvaneto/all-animation  
 All Animation.css é um conjunto de animações, divertidas para deixar seu projeto mais sexy. São animações cross-browser que darão mas ênfase a suas páginas como controles deslizantes, efeitos 3D’s..
 
 ## LOCAWEB STYLE
 http://locaweb.github.io/locawebstyle-v2/  
 Construa sistemas rapidamente utilizando nosso framework. Disponibilizamos comportamentos e uma interface usada por milhares de usuários.
+
+---
+Shell Script
+---
+
+## ShellBot
+https://github.com/shellscriptx/ShellBot  
+API em Shell Script para desenvolvimento de Bots na plataforma Telegram.
