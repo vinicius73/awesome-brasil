@@ -163,3 +163,7 @@ Shell Script
 ## ShellBot
 https://github.com/shellscriptx/ShellBot  
 API em Shell Script para desenvolvimento de Bots na plataforma Telegram.
+
+## Funções ZZ
+https://github.com/funcoeszz/funcoeszz  
+Funções ZZ — 170+ aplicativos para a linha de comando do Linux, Mac e Cygwin
