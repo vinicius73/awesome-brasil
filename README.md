@@ -35,7 +35,7 @@ https://github.com/marcioAlmada/redsql
 RedSQL is a database agnostic helper for RedBean delivered as a plugin. It's a tiny, fun and predictable DSL to create SQL queries in a programmatic way.
 
 ### Respect
-http://respect.li/  
+http://respect.github.io
 Componentes simples e independentes para construção e melhoria de aplicações PHP
 
 ## Laravel
