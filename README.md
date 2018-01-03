@@ -11,6 +11,8 @@ Uma lista de projetos Open Source Brasileiros!
 - [Javascript](#javascript)
   - [Bibliotecas](#bibliotecas)
   - [jQuery](#jquery)
+- [CSS](#css)
+- [Shell Script](#shellscript)
 
 ## PHP
 
