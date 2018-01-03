@@ -5,6 +5,9 @@ Uma lista de projetos Open Source Brasileiros!
 
 - [PHP](#php)
   - [Packages](#packages)
+  - [Laravel](#laravel)
+  - [CodeIgniter](#codeigniter)
+  - [Wordpress](#wordpress)
 
 ## PHP
 
