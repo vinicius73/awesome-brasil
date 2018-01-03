@@ -8,6 +8,9 @@ Uma lista de projetos Open Source Brasileiros!
   - [Laravel](#laravel)
   - [CodeIgniter](#codeigniter)
   - [Wordpress](#wordpress)
+- [Javascript](#javascript)
+  - [Bibliotecas](#bibliotecas)
+  - [jQuery](#jquery)
 
 ## PHP
 
@@ -55,64 +58,34 @@ Uma lista de projetos Open Source Brasileiros!
 | [Potter](https://github.com/potterywp/potter) | Conjunto de ferramentas que ajudam a criar sites WordPress mais facilmente. |
 | [w.eloquent](https://github.com/bruno-barros/w.eloquent) | Wordpress integrated with Laravel via Composer. |
 
----
+## Javascript
 
-Javascript
----
+### Bibliotecas
 
-## Bibliotecas
+| Projeto | Descrição |
+|---|---|
+| [Hasher](https://github.com/millermedeiros/hasher/) | Browser history manager for rich media websites |
+| [Medium Editor](https://github.com/daviferreira/medium-editor) | Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution. |
+| [MOUT](http://moutjs.com/) | Modular JavaScript Utilities |
+| [SENNA](http://sennajs.com/) | A BLAZING-FAST SINGLE PAGE APPLICATION ENGINE |
+| [RouterKhanJS](https://github.com/PaulaoDev/router-khan-js) | Route system in javascript (ES6) |
 
-### Hasher
-https://github.com/millermedeiros/hasher/  
-Browser history manager for rich media websites
+### jQuery
 
-### Medium Editor
-https://github.com/daviferreira/medium-editor  
-Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+| Projeto | Descrição |
+|---|---|
+| [jQuery StickyColumn plugin](https://github.com/daviferreira/jquery-sticky-column) | jQuery plugin that allow you add sticky sidebars to your content. |
 
-### MOUT
-http://moutjs.com/  
-Modular JavaScript Utilities
+## CSS
 
-### SENNA
-http://sennajs.com/  
-A BLAZING-FAST SINGLE PAGE APPLICATION ENGINE
+| Projeto | Descrição |
+|---|---|
+| [All Animation.css](https://github.com/clovisdasilvaneto/all-animation) | All Animation.css é um conjunto de animações, divertidas para deixar seu projeto mais sexy. São animações cross-browser que darão mas ênfase a suas páginas como controles deslizantes, efeitos 3D’s... |
+| [LOCAWEB STYLE](http://locaweb.github.io/locawebstyle-v2/) | Construa sistemas rapidamente utilizando nosso framework. Disponibilizamos comportamentos e uma interface usada por milhares de usuários. |
 
-### RouterKhanJS
-https://github.com/PaulaoDev/router-khan-js
+## Shell Script
 
-Route system in javascript (ES6)
-
-## Jquery
-
-### Plugins
-
-#### jQuery StickyColumn plugin
-https://github.com/daviferreira/jquery-sticky-column  
-jQuery plugin that allow you add sticky sidebars to your content.
-
-## NodeJS
-
----
-CSS
----
-
-## All Animation.css
-https://github.com/clovisdasilvaneto/all-animation  
-All Animation.css é um conjunto de animações, divertidas para deixar seu projeto mais sexy. São animações cross-browser que darão mas ênfase a suas páginas como controles deslizantes, efeitos 3D’s..
-
-## LOCAWEB STYLE
-http://locaweb.github.io/locawebstyle-v2/  
-Construa sistemas rapidamente utilizando nosso framework. Disponibilizamos comportamentos e uma interface usada por milhares de usuários.
-
----
-Shell Script
----
-
-## ShellBot
-https://github.com/shellscriptx/ShellBot  
-API em Shell Script para desenvolvimento de Bots na plataforma Telegram.
-
-## Funções ZZ
-https://github.com/funcoeszz/funcoeszz  
-Funções ZZ — 170+ aplicativos para a linha de comando do Linux, Mac e Cygwin
+| Projeto | Descrição |
+|---|---|
+| [ShellBot](https://github.com/shellscriptx/ShellBot) | API em Shell Script para desenvolvimento de Bots na plataforma Telegram. |
+| [Funções ZZ](https://github.com/funcoeszz/funcoeszz) | Funções ZZ — 170+ aplicativos para a linha de comando do Linux, Mac e Cygwin |
