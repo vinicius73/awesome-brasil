@@ -1,115 +1,56 @@
 # awesome-brasil
 Uma lista de projetos Open Source Brasileiros!
 
-PHP
----
+## Conteúdo
 
-## Packages
+- [PHP](#php)
+  - [Packages](#packages)
 
-### B2W (Submarino) SDK
-http://github.com/gpupo/submarino-sdk/  
-SDK PHP para integração com as APIs do B2W Marketplace
+## PHP
 
-### Google2FA
-https://github.com/antonioribeiro/google2fa  
-Google Two-Factor Authentication for PHP Package
+### Packages
 
-### Minime \ Annotations
-https://github.com/marcioAlmada/annotations  
-The KISS PHP annotations library.
+| Projeto | Descrição |
+|---|---|
+| [B2W (SDK Submarino)](http://github.com/gpupo/submarino-sdk/) | SDK PHP para integração com as APIs do B2W Marketplace. |
+| [Google2FA](https://github.com/antonioribeiro/google2fa) | Google Two-Factor Authentication for PHP Package |
+| [Minime \ Annotations](https://github.com/marcioAlmada/annotations) | The KISS PHP annotations library. |
+| [NFePHP Serialize](https://github.com/jansenfelipe/nfephp-serialize) | Transforme NFe(xml) em objetos PHP (e vice-versa) |
+| [OpenBoleto](http://kriansa.github.io/openboleto/) | Biblioteca para geração de boletos bancários em PHP |
+| [Rede E-commerce SDK](http://github.com/danielcosta/redecard-ecommerce/) | SDK PHP para o gateway de pagamento e-commerce da Rede (ex RedeCard) |
+| [RedSQL](https://github.com/marcioAlmada/redsql) | RedSQL is a database agnostic helper for RedBean delivered as a plugin. It's a tiny, fun and predictable DSL to create SQL queries in a programmatic way. |
+| [Respect](http://respect.github.io) | Componentes simples e independentes para construção e melhoria de aplicações PHP |
 
-### NFePHP Serialize
-https://github.com/jansenfelipe/nfephp-serialize  
-Transforme NFe(xml) em objetos PHP (e vice-versa)
+### Laravel
 
-### OpenBoleto
-http://kriansa.github.io/openboleto/  
-Biblioteca para geração de boletos bancários em PHP
+| Projeto | Descrição |
+|---|---|
+| [Attacher](https://github.com/artesaos/attacher) | Annex and do what you want with your pictures! |
+| [Borgert CMS](https://github.com/odirleiborgert/borgert-cms) | Borgert is a CMS Open Source created with Laravel Framework |
+| [Defender](https://github.com/artesaos/defender) | Defender é um package ACL para Laravel 5 que utiliza grupos e permissões. Com Segurança e Usabilidade em mente, este projeto tem como objetivo prover o controle de acesso da sua aplicação. |
+| [Almoxarifado - Módulo Produtos/Material](https://github.com/resultsystems/storehouse-product) | Um cadastro de produtos voltado para almoxarifado, pacote independente, um bom exemplo para poder ser usado em novos pacotes tal como fornecedores, clientes etc |
+| [Laravel Security Router](https://github.com/resultsystems/laravel-security-router) | Voltado para desenvolvedor que disponibiliza pacotes e gostaria de deixar os outros desenvolvedores definirem as permissões de acesso apenas por um arquivo de configuração, trabalha com middleware, e tem mais proveito se usar o Defender. |
+| [L5 Repository](https://github.com/andersao/l5-repository) | Repositorio para abstrair a camada de banco de dados |
+| [Moip](https://github.com/SOSTheBlack/moip) | Package para integrar sua aplicação com o intermediador de pagamentos MoIP |
+| [SEOTools](https://github.com/artesaos/seotools) | SEOTools é um pacote para Laravel 5 que fornece uma série de helpers para implementar técnicas comuns de SEO. |
+| [Slack API](https://github.com/vluzrmos/laravel-slack-api) | Laravel Facade para acesso à API do Slack.com |
+| [Validation](https://github.com/KennedyTedesco/Validation) | "The power of 'Respect Validation' on Laravel" |
+| [ZIPCODE](https://github.com/artesaos/zipcode) | ARTESÃOS ZIPCODE (CEP BRASIL) |
 
-### Rede E-commerce SDK
-http://github.com/danielcosta/redecard-ecommerce/  
-SDK PHP para o gateway de pagamento e-commerce da Rede (ex RedeCard)
+### CodeIgniter
 
-### RedSQL
-https://github.com/marcioAlmada/redsql  
-RedSQL is a database agnostic helper for RedBean delivered as a plugin. It's a tiny, fun and predictable DSL to create SQL queries in a programmatic way.
+| Projeto | Descrição |
+|---|---|
+| [ACME Framework](http://www.acmeframework.org) | ACME Framework é uma pré-aplicação CodeIgniter que após instalada em seu servidor web se torna uma nova aplicação com um conjunto pronto de funcionalidades. |
 
-### Respect
-http://respect.github.io
-Componentes simples e independentes para construção e melhoria de aplicações PHP
+### Wordpress
 
-## Laravel
-
-### Attacher
-https://github.com/artesaos/attacher  
-Annex and do what you want with your pictures!
-
-### Borgert CMS
-https://github.com/odirleiborgert/borgert-cms
-Borgert is a CMS Open Source created with Laravel Framework
-
-### Defender
-https://github.com/artesaos/defender  
-Defender é um package ACL para Laravel 5 que utiliza grupos e permissões. Com Segurança e Usabilidade em mente, este projeto tem como objetivo prover o controle de acesso da sua aplicação.
-
-### Laravel - Almoxarifado - Módulo Produtos/Material
-https://github.com/resultsystems/storehouse-product  
-Um cadastro de produtos voltado para almoxarifado, pacote independente, um bom exemplo para poder ser usado em novos pacotes tal como fornecedores, clientes etc
-
-### Laravel Security Router
-https://github.com/resultsystems/laravel-security-router  
-Voltado para desenvolvedor que disponibiliza pacotes e gostaria de deixar os outros desenvolvedores definirem as permissões de acesso apenas por um arquivo de configuração, trabalha com middleware, e tem mais proveito se usar o Defender.
-
-### L5 Repository
-https://github.com/andersao/l5-repository  
-Laravel Repositorio para abstrair a camada de banco de dados
-
-### Moip
-https://github.com/SOSTheBlack/moip  
-Package para integrar sua aplicação com o intermediador de pagamentos MoIP
-
-### SEOTools
-https://github.com/artesaos/seotools  
-SEOTools é um pacote para Laravel 5 que fornece uma série de helpers para implementar técnicas comuns de SEO.
-
-### Slack API
-https://github.com/vluzrmos/laravel-slack-api   
-Laravel Facade para acesso à API do Slack.com
-
-### Validation (Laravel Package)
-https://github.com/KennedyTedesco/Validation  
-"The power of 'Respect Validation' on Laravel"
-
-### ZIPCODE
-https://github.com/artesaos/zipcode  
-ARTESÃOS ZIPCODE (CEP BRASIL)
-
-
-
-## CodeIgniter
-
-### ACME Framework
-http://www.acmeframework.org  
-ACME Framework é uma pré-aplicação CodeIgniter que após instalada em seu servidor web se torna uma nova aplicação com um conjunto pronto de funcionalidades.
-
-
-## Wordpress
-
-### Alter
-https://github.com/alterfw/alter  
-A small framework that provides the way to develop model-based Wordpress themes
-
-### Odin Framework
-https://github.com/wpbrasil/odin  
-Tema base desenvolvido pelo [Grupo WordPress Brasil](https://www.facebook.com/groups/wordpress.brasil), para auxiliar no desenvolvimento ágil de temas para WordPress.
-
-### Potter
-https://github.com/potterywp/potter  
-Conjunto de ferramentas que ajudam a criar sites WordPress mais facilmente.
-
-### w.eloquent
-https://github.com/bruno-barros/w.eloquent  
-Wordpress integrated with Laravel via Composer.
+| Projeto | Descrição |
+|---|---|
+| [Alter](https://github.com/alterfw/alter) | A small framework that provides the way to develop model-based Wordpress themes |
+| [Odin Framework](https://github.com/wpbrasil/odin) | Tema base desenvolvido pelo [Grupo WordPress Brasil](https://www.facebook.com/groups/wordpress.brasil), para auxiliar no desenvolvimento ágil de temas para WordPress. |
+| [Potter](https://github.com/potterywp/potter) | Conjunto de ferramentas que ajudam a criar sites WordPress mais facilmente. |
+| [w.eloquent](https://github.com/bruno-barros/w.eloquent) | Wordpress integrated with Laravel via Composer. |
 
 ---
 
