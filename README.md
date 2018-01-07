@@ -8,6 +8,9 @@ Uma lista de projetos Open Source Brasileiros!
   - [Laravel](#laravel)
   - [CodeIgniter](#codeigniter)
   - [Wordpress](#wordpress)
+- [Ruby](#ruby)
+  - [SDKs](#sdks)
+  - [Outros](#outros)
 - [Javascript](#javascript)
   - [Bibliotecas](#bibliotecas)
   - [jQuery](#jquery)
@@ -28,6 +31,7 @@ Uma lista de projetos Open Source Brasileiros!
 | [Rede E-commerce SDK](http://github.com/danielcosta/redecard-ecommerce/) | SDK PHP para o gateway de pagamento e-commerce da Rede (ex RedeCard) |
 | [RedSQL](https://github.com/marcioAlmada/redsql) | RedSQL is a database agnostic helper for RedBean delivered as a plugin. It's a tiny, fun and predictable DSL to create SQL queries in a programmatic way. |
 | [Respect](http://respect.github.io) | Componentes simples e independentes para construção e melhoria de aplicações PHP |
+| [Moip v2 SDK](https://github.com/moip/moip-sdk-php) | O jeito mais simples e rápido de integrar o Moip a sua aplicação PHP |
 
 ### Laravel
 
@@ -60,6 +64,22 @@ Uma lista de projetos Open Source Brasileiros!
 | [Potter](https://github.com/potterywp/potter) | Conjunto de ferramentas que ajudam a criar sites WordPress mais facilmente. |
 | [w.eloquent](https://github.com/bruno-barros/w.eloquent) | Wordpress integrated with Laravel via Composer. |
 
+## Ruby
+
+### SDKs
+
+| Projeto | Descrição |
+|---|---|
+| [Moip v2 SDK](https://github.com/moip/moip-sdk-ruby) | O jeito mais simples e rápido de integrar o Moip a sua aplicação Ruby |
+
+### Outros
+
+| Projeto | Descrição |
+|---|---|
+| [RCurtain](https://github.com/moip/rcurtain) | Easy way to control your features using redis. |
+| [Moip Assinaturas](https://github.com/moip/moip-assinaturas) | Gem para utilização das assinaturas do Moip. |
+| [Powerline-Pills-ZSH](https://github.com/lucasqueiroz/powerline-pills-zsh) | Tema para ZSH que cria pílulas feitas com caracteres do Powerline. Feito em Ruby. |
+
 ## Javascript
 
 ### Bibliotecas
@@ -71,6 +91,8 @@ Uma lista de projetos Open Source Brasileiros!
 | [MOUT](http://moutjs.com/) | Modular JavaScript Utilities |
 | [SENNA](http://sennajs.com/) | A BLAZING-FAST SINGLE PAGE APPLICATION ENGINE |
 | [RouterKhanJS](https://github.com/PaulaoDev/router-khan-js) | Route system in javascript (ES6) |
+| [Bank Account Validator](https://github.com/moip/bank-account-validator-js) | Validador de contas bancárias |
+| [Awesome Mask](https://github.com/moip/awesome-mask) | The awesome-mask runs with Vue.js and uses the vanilla-masker to make your form awesome with masks. |
 
 ### jQuery
 
