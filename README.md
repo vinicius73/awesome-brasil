@@ -1,4 +1,6 @@
 # awesome-brasil
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Uma lista de projetos Open Source Brasileiros!
 
 ## Conteúdo
