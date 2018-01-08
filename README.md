@@ -49,13 +49,6 @@ Uma lista de projetos Open Source Brasileiros!
 | [SEOTools](https://github.com/artesaos/seotools) | SEOTools é um pacote para Laravel 5 que fornece uma série de helpers para implementar técnicas comuns de SEO. |
 | [Slack API](https://github.com/vluzrmos/laravel-slack-api) | Laravel Facade para acesso à API do Slack.com. |
 | [Validation](https://github.com/KennedyTedesco/Validation) | "The power of 'Respect Validation' on Laravel". |
-| [ZIPCODE](https://github.com/artesaos/zipcode) | ARTESÃOS ZIPCODE (CEP BRASIL). |
-
-### CodeIgniter
-
-| Projeto | Descrição |
-|---|---|
-| [ACME Framework](http://www.acmeframework.org) | ACME Framework é uma pré-aplicação CodeIgniter que após instalada em seu servidor web se torna uma nova aplicação com um conjunto pronto de funcionalidades. |
 
 ### Wordpress
 
