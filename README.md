@@ -13,9 +13,10 @@ Uma lista de projetos Open Source Brasileiros!
 - [Ruby](#ruby)
   - [SDKs](#sdks)
   - [Outros](#outros)
-- [Javascript](#javascript)
+- [JavaScript](#javascript)
   - [Bibliotecas](#bibliotecas)
   - [jQuery](#jquery)
+  - [Node.js](#nodejs)
 - [CSS](#css)
 - [Shell Script](#shell-script)
 
@@ -94,6 +95,16 @@ Uma lista de projetos Open Source Brasileiros!
 | Projeto | Descrição |
 |---|---|
 | [jQuery StickyColumn plugin](https://github.com/daviferreira/jquery-sticky-column) | jQuery plugin that allow you add sticky sidebars to your content. |
+
+### Node.js
+
+| Projeto | Descrição |
+|---|---|
+| [BannerCLI](https://github.com/cjpatoilo/banner-cli) | Create a banner comment from package data. |
+| [Boeing](https://github.com/cjpatoilo/boeing) | Deployment to GitHub Pages. |
+| [Initify](https://github.com/cjpatoilo/rasper) | A meaningful Open Source Boilerplate – it's a piece of cake! |
+| [Marshmallow](https://github.com/cjpatoilo/marshmallow) | Parser `README.md` to `index.html`. |
+| [Rasper](https://github.com/cjpatoilo/rasper) | Node.js parse argument options make ease. |
 
 ## CSS
 
