@@ -100,6 +100,7 @@ Uma lista de projetos Open Source Brasileiros!
 
 | Projeto | Descrição |
 |---|---|
+| [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Rocket.Chat is the leading free open source team chat Slack alternative. |
 | [BannerCLI](https://github.com/cjpatoilo/banner-cli) | Create a banner comment from package data. |
 | [Boeing](https://github.com/cjpatoilo/boeing) | Deployment to GitHub Pages. |
 | [Initify](https://github.com/cjpatoilo/rasper) | A meaningful Open Source Boilerplate – it's a piece of cake! |
