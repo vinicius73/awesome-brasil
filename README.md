@@ -112,6 +112,7 @@ Uma lista de projetos Open Source Brasileiros!
 |---|---|
 | [All Animation.css](https://github.com/clovisdasilvaneto/all-animation) | All Animation.css é um conjunto de animações, divertidas para deixar seu projeto mais sexy. São animações cross-browser que darão mas ênfase a suas páginas como controles deslizantes, efeitos 3D’s... |
 | [LOCAWEB STYLE](http://locaweb.github.io/locawebstyle-v2/) | Construa sistemas rapidamente utilizando nosso framework. Disponibilizamos comportamentos e uma interface usada por milhares de usuários. |
+| [Milligram](https://github.com/milligram/milligram) | A minimalist CSS framework. |
 
 ## Shell Script
 
