@@ -94,6 +94,7 @@ Uma lista de projetos Open Source Brasileiros!
 
 | Projeto | Descrição |
 |---|---|
+| [jQuery heliosCustomSelect plugin](https://github.com/heliomsolivas/heliosCustomSelect) | jQuery plugin to create custom select with input type radio. |
 | [jQuery StickyColumn plugin](https://github.com/daviferreira/jquery-sticky-column) | jQuery plugin that allow you add sticky sidebars to your content. |
 
 ### Node.js
