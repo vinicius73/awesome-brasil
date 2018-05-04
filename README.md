@@ -59,6 +59,7 @@ Uma lista de projetos Open Source/Free Software Brasileiros!
 | [Odin Framework](https://github.com/wpbrasil/odin) | Tema base desenvolvido pelo [Grupo WordPress Brasil](https://www.facebook.com/groups/wordpress.brasil), para auxiliar no desenvolvimento ágil de temas para WordPress. |
 | [Potter](https://github.com/potterywp/potter) | Conjunto de ferramentas que ajudam a criar sites WordPress mais facilmente. |
 | [w.eloquent](https://github.com/bruno-barros/w.eloquent) | Wordpress integrated with Laravel via Composer. |
+| [Corcel](https://github.com/corcel/corcel) | Use WordPress backend with Laravel or any PHP application |
 
 ## Ruby
 
