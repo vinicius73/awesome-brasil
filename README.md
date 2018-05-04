@@ -35,6 +35,7 @@ Uma lista de projetos Open Source/Free Software Brasileiros!
 | [RedSQL](https://github.com/marcioAlmada/redsql) | RedSQL is a database agnostic helper for RedBean delivered as a plugin. It's a tiny, fun and predictable DSL to create SQL queries in a programmatic way. |
 | [Respect](http://respect.github.io) | Componentes simples e independentes para construção e melhoria de aplicações PHP. |
 | [Moip v2 SDK](https://github.com/moip/moip-sdk-php) | O jeito mais simples e rápido de integrar o Moip a sua aplicação PHP. |
+| [Khan Framework](https://github.com/PaulaoDev/khan) | Framework php destinado a criar aplicações web. |
 
 ### Laravel
 
