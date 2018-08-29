@@ -36,6 +36,7 @@ Uma lista de projetos Open Source/Free Software Brasileiros!
 | [Respect](http://respect.github.io) | Componentes simples e independentes para construção e melhoria de aplicações PHP. |
 | [Moip v2 SDK](https://github.com/moip/moip-sdk-php) | O jeito mais simples e rápido de integrar o Moip a sua aplicação PHP. |
 | [Khan Framework](https://github.com/PaulaoDev/khan) | Framework php destinado a criar aplicações web. |
+| [Packagist Mirror](https://github.com/Webysther/packagist-mirror) | Permite criar/atualizar um espelho dos metadados do packagist |
 
 ### Laravel
 
