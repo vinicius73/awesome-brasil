@@ -6,6 +6,7 @@ Uma lista de projetos Open Source/Free Software Brasileiros!
 ## Conteúdo
 
 - [PHP](#php)
+  - [Mirrors](#mirrors)
   - [Packages](#packages)
   - [Laravel](#laravel)
   - [CodeIgniter](#codeigniter)
@@ -21,6 +22,14 @@ Uma lista de projetos Open Source/Free Software Brasileiros!
 - [Shell Script](#shell-script)
 
 ## PHP
+
+### Mirrors
+
+Lista de espelhos: https://packagist.org/mirrors
+
+| Localização |
+|---|
+| [São Paulo](https://packagist.com.br) |
 
 ### Packages
 
