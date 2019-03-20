@@ -20,6 +20,7 @@ Uma lista de projetos Open Source/Free Software Brasileiros!
   - [Node.js](#nodejs)
 - [CSS](#css)
 - [Shell Script](#shell-script)
+- [Sites](#sites)
 
 ## PHP
 
@@ -136,3 +137,10 @@ Lista de espelhos: https://packagist.org/mirrors
 |---|---|
 | [ShellBot](https://github.com/shellscriptx/ShellBot) | API em Shell Script para desenvolvimento de Bots na plataforma Telegram. |
 | [Funções ZZ](https://github.com/funcoeszz/funcoeszz) | Funções ZZ — 170+ aplicativos para a linha de comando do Linux, Mac e Cygwin. |
+
+
+## Sites
+
+| Projeto | Descrição |
+|---|---|
+| [Exata0mente](https://github.com/exata0mente/exata0mente.github.io) | Site colaborativo, construído com [Jekyll](https://jekyllrb.com/). Ótima opção para treinar CSS, HTML, FrontMatter, Liquid Template e gerar conteúdo|
