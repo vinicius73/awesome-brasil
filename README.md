@@ -92,7 +92,7 @@ Lista de espelhos: https://packagist.org/mirrors
 | [Noosfero](https://github.com/noosfero/noosfero) | Plataforma para criar redes sociais. Ruby on Rails |
 
 ## Javascript
-
+[GitHub Fdaciuk] https://github.com/fdaciuk | Conteúdo sobre javascript
 ### Bibliotecas
 
 | Projeto | Descrição |
