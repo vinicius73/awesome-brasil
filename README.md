@@ -90,6 +90,7 @@ Lista de espelhos: https://packagist.org/mirrors
 | [Powerline-Pills-ZSH](https://github.com/lucasqueiroz/powerline-pills-zsh) | Tema para ZSH que cria pílulas feitas com caracteres do Powerline. Feito em Ruby. |
 | [TheApes](https://github.com/Kitsun3Sec/TheApes/) | Harderning Tool para melhorar a segurança de servidores. Feito em Ruby com amor. |
 | [Noosfero](https://github.com/noosfero/noosfero) | Plataforma para criar redes sociais. Ruby on Rails |
+| [Plaft](https://github.com/ifnmgjanauba/plaft) | Ferramenta simples para a automação de correções de exercícios de programação |
 
 ## Javascript
 
