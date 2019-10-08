@@ -90,6 +90,7 @@ Lista de espelhos: https://packagist.org/mirrors
 | [Powerline-Pills-ZSH](https://github.com/lucasqueiroz/powerline-pills-zsh) | Tema para ZSH que cria pílulas feitas com caracteres do Powerline. Feito em Ruby. |
 | [TheApes](https://github.com/Kitsun3Sec/TheApes/) | Harderning Tool para melhorar a segurança de servidores. Feito em Ruby com amor. |
 | [Noosfero](https://github.com/noosfero/noosfero) | Plataforma para criar redes sociais. Ruby on Rails |
+| [Musical Artifacts](https://github.com/lfzawacki/musical-artifacts) | Uma aplicação web com o objetivo de ajudar os músicos a encontrar, compartilhar e preservar os 'artefatos' que eles usam na produção musical. Ruby on Rails. |
 
 ## Javascript
 
