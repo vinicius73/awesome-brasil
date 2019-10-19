@@ -93,7 +93,7 @@ Lista de espelhos: https://packagist.org/mirrors
 | [Musical Artifacts](https://github.com/lfzawacki/musical-artifacts) | Uma aplicação web com o objetivo de ajudar os músicos a encontrar, compartilhar e preservar os 'artefatos' que eles usam na produção musical. Ruby on Rails. |
 
 ## Javascript
-
+[GitHub Fdaciuk] https://github.com/fdaciuk | Conteúdo sobre javascript
 ### Bibliotecas
 
 | Projeto | Descrição |
