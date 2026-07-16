@@ -105,6 +105,8 @@ Lista de espelhos: https://packagist.org/mirrors
 | [RouterKhanJS](https://github.com/PaulaoDev/router-khan-js) | Route system in javascript (ES6). |
 | [Bank Account Validator](https://github.com/moip/bank-account-validator-js) | Validador de contas bancárias. |
 | [Awesome Mask](https://github.com/moip/awesome-mask) | The awesome-mask runs with Vue.js and uses the vanilla-masker to make your form awesome with masks. |
+| [massa-br](https://github.com/oazevedolucas/massa-br) | A zero-dependency, deterministic generator of valid Brazilian test data — CPF, CNPJ, CEP, and phone numbers, valid by construction. |
+
 
 ### jQuery
 
