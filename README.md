@@ -145,3 +145,4 @@ Lista de espelhos: https://packagist.org/mirrors
 | Projeto | Descrição |
 |---|---|
 | [Exata0mente](https://github.com/exata0mente/exata0mente.github.io) | Site colaborativo, construído com [Jekyll](https://jekyllrb.com/). Ótima opção para treinar CSS, HTML, FrontMatter, Liquid Template e gerar conteúdo|
+|[DSA Roadmap](https://dsa.craftcodeclub.io)|Plataforma gratuita e open source para estudos de Estrutura de Dados e Algorítimos|
