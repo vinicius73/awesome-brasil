@@ -145,3 +145,4 @@ Lista de espelhos: https://packagist.org/mirrors
 | Projeto | Descrição |
 |---|---|
 | [Exata0mente](https://github.com/exata0mente/exata0mente.github.io) | Site colaborativo, construído com [Jekyll](https://jekyllrb.com/). Ótima opção para treinar CSS, HTML, FrontMatter, Liquid Template e gerar conteúdo|
+| [Converter Word para PDF](https://converterwordparapdf.com) | Conversor gratuito de Word para PDF online em português brasileiro. Converte arquivos .doc e .docx para PDF instantaneamente, sem cadastro, sem marca d'água e sem limite de tamanho. |
