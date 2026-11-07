@@ -145,3 +145,4 @@ Lista de espelhos: https://packagist.org/mirrors
 | Projeto | Descrição |
 |---|---|
 | [Exata0mente](https://github.com/exata0mente/exata0mente.github.io) | Site colaborativo, construído com [Jekyll](https://jekyllrb.com/). Ótima opção para treinar CSS, HTML, FrontMatter, Liquid Template e gerar conteúdo|
+| [KaijuConverter (Português)](https://kaijuconverter.com/pt) | Ferramenta gratuita online de conversão de arquivos e dados para mais de 100 formatos (imagens, documentos, áudio, datasets) sem necessidade de cadastro |
