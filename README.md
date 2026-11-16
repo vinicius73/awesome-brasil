@@ -123,6 +123,7 @@ Lista de espelhos: https://packagist.org/mirrors
 | [Initify](https://github.com/cjpatoilo/rasper) | A meaningful Open Source Boilerplate – it's a piece of cake! |
 | [Marshmallow](https://github.com/cjpatoilo/marshmallow) | Parser `README.md` to `index.html`. |
 | [Rasper](https://github.com/cjpatoilo/rasper) | Node.js parse argument options make ease. |
+| [lgpd-skills](https://github.com/goul4rt/lgpd-skills) | Toolkit modular de Agent Skills (Claude Code, Codex, Cursor, Gemini CLI, OpenCode) para engenharia de privacidade, auditoria técnica e governança sob a LGPD e ECA Digital. |
 
 ## CSS
 
