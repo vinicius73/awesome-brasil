@@ -72,6 +72,7 @@ Lista de espelhos: https://packagist.org/mirrors
 | [Potter](https://github.com/potterywp/potter) | Conjunto de ferramentas que ajudam a criar sites WordPress mais facilmente. |
 | [w.eloquent](https://github.com/bruno-barros/w.eloquent) | Wordpress integrated with Laravel via Composer. |
 | [Corcel](https://github.com/corcel/corcel) | Use WordPress backend with Laravel or any PHP application |
+| [Cadastro Certo](https://github.com/Nandcoding/cadastro-certo-cpf-cnpj) | Plugin de WooCommerce com tipo de pessoa, CPF e CNPJ (inclusive o alfanumérico), número e bairro, no checkout clássico e no checkout em blocos. |
 
 ## Ruby
 
