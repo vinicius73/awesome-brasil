@@ -138,6 +138,7 @@ Lista de espelhos: https://packagist.org/mirrors
 |---|---|
 | [ShellBot](https://github.com/shellscriptx/ShellBot) | API em Shell Script para desenvolvimento de Bots na plataforma Telegram. |
 | [Funções ZZ](https://github.com/funcoeszz/funcoeszz) | Funções ZZ — 170+ aplicativos para a linha de comando do Linux, Mac e Cygwin. |
+| [protheus-docker](https://github.com/tmoreiradev/protheus-docker) | Ambiente TOTVS Protheus (AppServer, DBAccess e License Server) em Docker para desenvolvimento ADVPL/TLPP. |
 
 
 ## Sites
